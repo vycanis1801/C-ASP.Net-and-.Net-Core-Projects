@@ -1,0 +1,9 @@
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\bin\Debug\netcoreapp1.1\VariableSample.deps.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\bin\Debug\netcoreapp1.1\VariableSample.runtimeconfig.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\bin\Debug\netcoreapp1.1\VariableSample.runtimeconfig.dev.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\bin\Debug\netcoreapp1.1\VariableSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\bin\Debug\netcoreapp1.1\VariableSample.pdb
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\obj\Debug\netcoreapp1.1\VariableSample.csprojResolveAssemblyReference.cache
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\obj\Debug\netcoreapp1.1\VariableSample.AssemblyInfo.cs
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\obj\Debug\netcoreapp1.1\VariableSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\VariableSample\obj\Debug\netcoreapp1.1\VariableSample.pdb

@@ -1,0 +1,9 @@
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\bin\Debug\netcoreapp1.1\IfStatement.deps.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\bin\Debug\netcoreapp1.1\IfStatement.runtimeconfig.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\bin\Debug\netcoreapp1.1\IfStatement.runtimeconfig.dev.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\bin\Debug\netcoreapp1.1\IfStatement.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\bin\Debug\netcoreapp1.1\IfStatement.pdb
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\obj\Debug\netcoreapp1.1\IfStatement.csprojResolveAssemblyReference.cache
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\obj\Debug\netcoreapp1.1\IfStatement.AssemblyInfo.cs
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\obj\Debug\netcoreapp1.1\IfStatement.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\IfStatement\obj\Debug\netcoreapp1.1\IfStatement.pdb

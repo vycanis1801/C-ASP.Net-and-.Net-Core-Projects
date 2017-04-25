@@ -1,0 +1,9 @@
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.deps.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.runtimeconfig.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.runtimeconfig.dev.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.pdb
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.csprojResolveAssemblyReference.cache
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.AssemblyInfo.cs
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.pdb

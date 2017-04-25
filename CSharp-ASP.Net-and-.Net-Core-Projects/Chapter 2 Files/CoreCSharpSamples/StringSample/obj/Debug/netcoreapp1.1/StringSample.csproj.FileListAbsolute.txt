@@ -1,0 +1,8 @@
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp1.1\StringSample.deps.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp1.1\StringSample.runtimeconfig.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp1.1\StringSample.runtimeconfig.dev.json
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp1.1\StringSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp1.1\StringSample.pdb
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp1.1\StringSample.AssemblyInfo.cs
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp1.1\StringSample.dll
+C:\Users\vycanis\Documents\GitHub\CSharp-ASP.Net-and-.Net-Core-Projects\Chapter 2 Files\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp1.1\StringSample.pdb
